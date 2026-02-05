@@ -9,6 +9,8 @@ Unlike generic search platforms, AI Mentor acts as a **24/7 personal mentor**, u
 ## 🎯 What Problem Does It Solve?
 
 Many people struggle with:
+- Help first genereation student with their "Information Poberty"
+- Reduce Unemployment by telling people more about careers  
 - Choosing the right career path
 - Finding reliable learning resources
 - Preparing for interviews
